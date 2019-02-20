@@ -1,6 +1,7 @@
 # DevOps-Learning
 * [shell-scripting-tutorial](https://github.com/prabhatpankaj/shell-scripting-tutorial)
 
+* [aws basis](https://github.com/prabhatpankaj/aws-basics)
 * [jenkins nodejs production CICD](https://github.com/prabhatpankaj/jenkins-nodejs-lab)
 
 
